@@ -1,2 +1,2 @@
 # booking-app
-Microservices on cloud foundry PoC
+Java (Springboot) application to manage users and their bookings
